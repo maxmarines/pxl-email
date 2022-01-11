@@ -1,6 +1,6 @@
 {
   "name": "pxl",
-  "version": "0.0.4",
+  "version": "0.0.9",
   "description": "mal track",
   "main": "./index.js",
   "scripts": {
