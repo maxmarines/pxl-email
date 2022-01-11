@@ -1,7 +1,7 @@
 {
   "name": "pxl",
   "version": "0.0.4",
-  "description": "Access counting for any Express-served url - e.g. for a tracking pixel in emails",
+  "description": "mal track",
   "main": "./index.js",
   "scripts": {
     "test": "./node_modules/.bin/gulp ci",
@@ -11,29 +11,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/analog-nico/pxl.git"
+    "url": "git+https://github.com/"
   },
-  "keywords": [
-    "counting",
-    "counter",
-    "express",
-    "connect",
-    "url",
-    "uri",
-    "endpoint",
-    "access",
-    "query",
-    "querystring",
-    "tracking",
-    "tracker",
-    "pixel"
-  ],
-  "author": "Nicolai Kamenzky (https://github.com/analog-nico)",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/analog-nico/pxl/issues"
-  },
-  "homepage": "https://github.com/analog-nico/pxl#readme",
+  "author": "Max (https://github.com/)",
   "engines": {
     "node": ">=6"
   },
