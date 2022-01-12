@@ -1,7 +1,7 @@
 {
   "name": "pxl",
   "version": "0.0.9",
-  "description": "mal track",
+  "description": "malv track",
   "main": "./index.js",
   "scripts": {
     "test": "./node_modules/.bin/gulp ci",
